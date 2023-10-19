@@ -10,6 +10,7 @@ namespace PrimerParcial
     {
         static void Main(string[] args)
         {
+            ClsMenu.menu();
         }
     }
 }

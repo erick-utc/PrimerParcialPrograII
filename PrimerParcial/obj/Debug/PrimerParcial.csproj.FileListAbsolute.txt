@@ -1,0 +1,8 @@
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\obj\Debug\PrimerParcial.csproj.AssemblyReference.cache
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\obj\Debug\PrimerParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\Precision 5550s\OneDrive\Documents\PrimerParcialPrograII\PrimerParcial\obj\Debug\PrimerParcial.pdb
